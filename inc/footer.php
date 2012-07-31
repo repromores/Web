@@ -16,6 +16,6 @@
     <script src="js/bootstrap-collapse.js"></script>
     <script src="js/bootstrap-carousel.js"></script>
     <script src="js/bootstrap-typeahead.js"></script>
-
+    <script src="js/navegacion.js"></script>
   </body>
 </html>

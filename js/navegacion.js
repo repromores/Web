@@ -21,3 +21,21 @@ var navLat = {
 	}
 }
 navLat.init();
+
+var carousel = {
+	init : function(){
+		Carousel = this;
+		Carousel.clase = ".carousel";
+		Carousel.esCiclico = true;
+		Carousel.tiempo = 3000;
+
+		if(Carousel.esCiclico){
+			Carousel.cycleCarousel();
+		}
+	},
+	cycleCarousel : function(){
+		$(Carousel.clase).carousel({interval : Carousel.tiempo})
+	}
+
+}
+carousel.init();
