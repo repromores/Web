@@ -16,8 +16,8 @@ var navLat = {
 	},
 	headerClicked : function(){
 	    clase = $(this).data("menu");
-	    $(NavLat.list +":not(."+ clase +")").hide("fast");
-	    $(NavLat.list + "."+clase).toggle("fast");
+	    $(NavLat.list +":not(."+ clase +")").slideUp("fast");
+	    $(NavLat.list + "."+clase).slideToggle("fast");
 	}
 }
 navLat.init();

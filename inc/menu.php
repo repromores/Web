@@ -20,7 +20,7 @@
       </div>
 <div class="row sep-hor">
   <div class="span3">
-    <div class="menu-left nav nav-list">
+    <nav class="menu-left nav nav-list">
     <li class="nav-header" data-menu="menu1">
       Cartelería
     </li>
@@ -32,7 +32,7 @@
     </div>
 
     <li class="nav-header"  data-menu="menu2">
-      Impresión e Imprenta Digital
+      Impresión Digital
     </li>
     <div class="menu-list menu2">
       <li><a class="menu-item" href="">Impresión digital</a></li>
@@ -91,5 +91,14 @@
       <li><a class="menu-item" href="">Encarpetado de proyectos</a></li>
       <li><a class="menu-item" href="">Encuadernación artesanal</a></li>
     </div>
-    </div>
+    </nav>
+
+  <div class="newsletter">
+    <h2>Newsletter</h2>
+    <p>¡Apuntate a nuestra newsletter para enterarte de todas nuestras ofertas y novedades!</p>
+    <input type="email" class="input" placeholder="Danos tu email">
+    <input type="submit" class="btn" value="Enviar email">
+  </div>
+
+
   </div>
