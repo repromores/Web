@@ -16,6 +16,13 @@
     <script src="js/bootstrap-collapse.js"></script>
     <script src="js/bootstrap-carousel.js"></script>
     <script src="js/bootstrap-typeahead.js"></script>
-    <script src="js/navegacion.js"></script>
+    
+    <script  src="js/gallery/jquery.timers-1.2.js"></script>
+    <script  src="js/gallery/jquery.easing.1.3.js"></script>
+    <script src="js/gallery/jquery.galleryview-3.0-dev.js"></script>
+    <link href="js/gallery/jquery.galleryview-3.0-dev.css" rel="stylesheet">
+
+    <script src="js/navegacion.js"></script> 
+
   </body>
 </html>

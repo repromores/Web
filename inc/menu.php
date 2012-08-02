@@ -1,12 +1,18 @@
+<?php
+  $h1text = !empty($h1text)? $h1text : "Morés - reprografía, cartelería, impresión digital, stands y más";
+?>
+
+
   </head>
   <body>
     <div class="container">
       <div class="row">
         <div class="span16">
-          <a href="index.php">
-            <img src="img/mores.png" alt="Morés - reprografía, cartelería, impresión digital, stands y más">
-          </a>
-
+          <h1 class="logo">
+            <a href="index.php">
+              <img src="img/mores.png" alt="<?php echo  $h1text ?>">
+            </a>
+          </h1>
           <nav class="pull-right">
             <ul class="menu-top">
               <li><a href="">Inicio</a></li>
