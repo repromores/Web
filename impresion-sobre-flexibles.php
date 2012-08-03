@@ -1,4 +1,4 @@
-<?php include "inc/config.php"; ?>
+﻿<?php include "inc/config.php"; ?>
 <?php include "inc/head.php"; ?>
 <title>morés - Impresión sobre flexibles</title>
 <?php
@@ -17,7 +17,7 @@
 		<p>
 		Impresión sobre papel (en diferentes calidades: mate, semi-mate, brillo), papel fotográfico Semigloss, lienzo (canvas), lona (plástica, microperforada, Decolite), Duratrans, vinilo (retirable, permanente, ácido, especial para vehículos, transparente, translúcido, perforado), Glaspack, Flagback (bandera), Spinnaker, polycril, etc.
 		</p>
-		<h3>APLICACIONES</h3>
+		<h3>Aplicaciones</h3>
 		<ul>
 		<li>
 		Lonas impresas para su uso en banderolas, seguridad para fachadas, vallas retroiluminables, lonas para camiones, decoración de escenarios y carpas, exposiciones, grandes superficies, stands, soportes expositivos, etc.

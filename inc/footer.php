@@ -1,3 +1,7 @@
+   <footer class="footer">
+       
+   </footer>
+
     </div> <!-- /container -->
 
     <!-- Le javascript
