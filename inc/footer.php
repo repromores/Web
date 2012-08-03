@@ -17,10 +17,13 @@
     <script src="js/bootstrap-carousel.js"></script>
     <script src="js/bootstrap-typeahead.js"></script>
     
-    <script  src="js/gallery/jquery.timers-1.2.js"></script>
-    <script  src="js/gallery/jquery.easing.1.3.js"></script>
-    <script src="js/gallery/jquery.galleryview-3.0-dev.js"></script>
-    <link href="js/gallery/jquery.galleryview-3.0-dev.css" rel="stylesheet">
+
+    <script type="text/javascript" src="js/fancybox/jquery.mousewheel-3.0.6.pack.js"></script>
+
+    <!-- Add fancyBox -->
+    <link rel="stylesheet" href="js/fancybox/jquery.fancybox.css?v=2.0.6" type="text/css" media="screen" />
+    <script type="text/javascript" src="js/fancybox/jquery.fancybox.pack.js?v=2.0.6"></script>
+
 
     <script src="js/navegacion.js"></script> 
 
