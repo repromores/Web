@@ -32,3 +32,7 @@ $(".galeriaitem").fancybox({
     		}
     	}
 });
+$(".mapa").fancybox({
+    	openEffect	: 'elastic',
+    	closeEffect	: 'elastic',	
+});

@@ -15,9 +15,9 @@
           </h1>
           <nav class="pull-right">
             <ul class="menu-top">
-              <li><a href="">Inicio</a></li>
+              <li><a href="index.php">Inicio</a></li>
               <li><a href="">Quienes Somos</a></li>
-              <li><a href="">Tiendas</a></li>
+              <li><a href="tiendas.php">Tiendas</a></li>
               <li><a href="">Preguntas Frecuentes</a></li>
               <li><a href="">Contacto</a></li>
             </ul>
@@ -31,7 +31,7 @@
       Cartelería
     </li>
     <div class="menu-list menu1">
-      <li><a class="menu-item" href="">Impresión sobre flexibles</a></li>
+      <li><a class="menu-item" href="impresion-sobre-flexibles.php">Impresión sobre flexibles</a></li>
       <li><a class="menu-item" href="">Impresión sobre rígidos</a></li>
       <li><a class="menu-item" href="">Impresión fotográfica</a></li>
       <li><a class="menu-item" href="">Acabado</a></li>

@@ -1,5 +1,13 @@
    <footer class="footer">
-       
+       <div class="links">
+           <ul>
+               <li><a href="aviso-legal.php">Aviso Legal</a></li>
+               <li><a href="politica-privacidad.php">Política de Privacidad</a></li>
+               <li><a href="cadena-custodia.php">Cadena de Custodia</a></li>
+               <li><a href="#">Mapa Web</a></li>
+               <li><a href="http://validator.w3.org/check?uri=referer">HTML5</a></li>
+           </ul>
+       </div>
    </footer>
 
     </div> <!-- /container -->
