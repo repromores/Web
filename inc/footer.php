@@ -1,8 +1,9 @@
-   <footer class="footer">
+﻿   <footer class="footer">
        <div class="links">
            <ul>
+               <li><a href="index.php">© Morés 2012</a></li>
                <li><a href="aviso-legal.php">Aviso Legal</a></li>
-               <li><a href="politica-privacidad.php">Pol�tica de Privacidad</a></li>
+               <li><a href="politica-privacidad.php">Política de Privacidad</a></li>
                <li><a href="cadena-custodia.php">Cadena de Custodia</a></li>
                <li><a href="#">Mapa Web</a></li>
                <li><a href="http://validator.w3.org/check?uri=referer">HTML5</a></li>
@@ -40,4 +41,4 @@
     <script src="js/navegacion.js"></script> 
 
   </body>
-</html>
+</html> 
