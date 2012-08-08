@@ -14,7 +14,7 @@
 	<br>
 	<p>Contacta con nosotros a través de:</p>
 	<ul>
-		<li>Teléfono:<strong>902 46 67 37 / 985 96 31 03</strong> </li>
+		<li>Teléfono: &nbsp&nbsp<strong>902 46 67 37 / 985 96 31 03</strong> </li>
 		<li>El siguiente formulario:</li>
 	</ul>
 	<form action="" class="form-horizontal contacto">

@@ -16,10 +16,10 @@
           <nav class="pull-right">
             <ul class="menu-top">
               <li><a href="index.php">Inicio</a></li>
-              <li><a href="">Quienes Somos</a></li>
+              <li><a href="quienes-somos.php">Quienes Somos</a></li>
               <li><a href="tiendas.php">Tiendas</a></li>
-              <li><a href="">Preguntas Frecuentes</a></li>
-              <li><a href="">Contacto</a></li>
+              <!-- <li><a href="">Preguntas Frecuentes</a></li> -->
+              <li><a href="contacta.php">Contacto</a></li>
             </ul>
           </nav>
         </div>
