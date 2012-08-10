@@ -17,6 +17,18 @@
 		<p>
 		Impresión sobre papel (en diferentes calidades: mate, semi-mate, brillo), papel fotográfico Semigloss, lienzo (canvas), lona (plástica, microperforada, Decolite), Duratrans, vinilo (retirable, permanente, ácido, especial para vehículos, transparente, translúcido, perforado), Glaspack, Flagback (bandera), Spinnaker, polycril, etc.
 		</p>
+
+		<ul class="galeria">
+			<li><a class="galeriaitem" title="Lone Tree Yellows" href="http://www.spaceforaname.com/galleryview/img/photos/bp1.jpg" data-fancybox-group="fancybox"><img src="http://www.spaceforaname.com/galleryview/img/photos/bp1.jpg" title="Lone Tree Yellows"/></a></li>
+			<li><a class="galeriaitem" href="http://www.spaceforaname.com/galleryview/img/photos/bp2.jpg" title="Is He Still There" data-fancybox-group="fancybox"><img src="http://www.spaceforaname.com/galleryview/img/photos/bp2.jpg" title="Is He Still There"/></a></li>
+			<li><a class="galeriaitem" href="http://www.spaceforaname.com/galleryview/img/photos/bp4.jpg" data-fancybox-group="fancybox"><img src="http://www.spaceforaname.com/galleryview/img/photos/bp4.jpg" title="Noni Nectar For G"/></a></li>
+			<li><a class="galeriaitem" href="http://www.spaceforaname.com/galleryview/img/photos/bp7.jpg" data-fancybox-group="fancybox"><img src="http://www.spaceforaname.com/galleryview/img/photos/bp7.jpg" title="Flight of an Eagl"/></a></li>
+			<li><a class="galeriaitem" href="http://www.spaceforaname.com/galleryview/img/photos/bp14.jpg" title="Winter Lollipops" data-fancybox-group="fancybox"><img src="http://www.spaceforaname.com/galleryview/img/photos/bp14.jpg" title="Winter Lollipops"/></a></li>
+		</ul>
+
+
+
+
 		<h3>Aplicaciones</h3>
 		<ul>
 		<li>
@@ -61,22 +73,7 @@
 		</ul>
 
 
-		<ul class="galeria">
-			<li><a class="galeriaitem" title="Lone Tree Yellows" href="http://www.spaceforaname.com/galleryview/img/photos/bp1.jpg" data-fancybox-group="fancybox"><img src="http://www.spaceforaname.com/galleryview/img/photos/bp1.jpg" title="Lone Tree Yellows"/></a></li>
-			<li><a class="galeriaitem" href="http://www.spaceforaname.com/galleryview/img/photos/bp2.jpg" title="Is He Still There" data-fancybox-group="fancybox"><img src="http://www.spaceforaname.com/galleryview/img/photos/bp2.jpg" title="Is He Still There"/></a></li>
-			<li><a class="galeriaitem" href="http://www.spaceforaname.com/galleryview/img/photos/bp4.jpg" data-fancybox-group="fancybox"><img src="http://www.spaceforaname.com/galleryview/img/photos/bp4.jpg" title="Noni Nectar For G"/></a></li>
-			<li><a class="galeriaitem" href="http://www.spaceforaname.com/galleryview/img/photos/bp7.jpg" data-fancybox-group="fancybox"><img src="http://www.spaceforaname.com/galleryview/img/photos/bp7.jpg" title="Flight of an Eagl"/></a></li>
-			<li><a class="galeriaitem" href="http://www.spaceforaname.com/galleryview/img/photos/bp14.jpg" title="Winter Lollipops" data-fancybox-group="fancybox"><img src="http://www.spaceforaname.com/galleryview/img/photos/bp14.jpg" title="Winter Lollipops"/></a></li>
-			<li><a class="galeriaitem" href="http://www.spaceforaname.com/galleryview/img/photos/bp26.jpg" data-fancybox-group="fancybox"><img src="http://www.spaceforaname.com/galleryview/img/photos/bp26.jpg" title="Day of Youth" /></a></li>
-			<li><a class="galeriaitem"href="http://www.spaceforaname.com/galleryview/img/photos/bp27.jpg" data-fancybox-group="fancybox"><img src="http://www.spaceforaname.com/galleryview/img/photos/bp27.jpg" title="Sunbathing Under"/></a></li>
-			<li><a class="galeriaitem" href="http://www.spaceforaname.com/galleryview/img/photos/bp28.jpg" data-fancybox-group="fancybox"><img src="http://www.spaceforaname.com/galleryview/img/photos/bp28.jpg" title="Untitled" /></a></li>
-			<li><a class="galeriaitem" href="http://www.spaceforaname.com/galleryview/img/photos/bp41.jpg" data-fancybox-group="fancybox"><img src="http://www.spaceforaname.com/galleryview/img/photos/bp41.jpg" title="New Orleans Stre"/></a></li>
-			<li><a class="galeriaitem" href="http://www.spaceforaname.com/galleryview/img/photos/bp49.jpg" data-fancybox-group="fancybox"><img src="http://www.spaceforaname.com/galleryview/img/photos/bp49.jpg" title="By The Wind of C"/></a></li>
-			<li><a class="galeriaitem" href="http://www.spaceforaname.com/galleryview/img/photos/bp52.jpg" data-fancybox-group="fancybox"><img src="http://www.spaceforaname.com/galleryview/img/photos/bp52.jpg" title="Fishing on the C"/></a></li>
-			<li><a class="galeriaitem" href="http://www.spaceforaname.com/galleryview/img/photos/bp53.jpg" data-fancybox-group="fancybox"><img src="http://www.spaceforaname.com/galleryview/img/photos/bp53.jpg" title="Blue Lagoon" /></a></li>
-			<li><a class="galeriaitem" href="http://www.spaceforaname.com/galleryview/img/photos/bp54.jpg" data-fancybox-group="fancybox"><img src="http://www.spaceforaname.com/galleryview/img/photos/bp54.jpg" title="Time" /></a></li>
-		</ul>
-
+		
 
   	</div>
   </div>
