@@ -1,9 +1,9 @@
 ﻿<?php include "inc/config.php"; ?>
 <?php include "inc/head.php"; ?>
-<title>morés - Tiendas</title>
+<title>morés - Quiénes somos</title>
 <?php
   // $h1text : variable para fijar el H1 en cada pagina para hacerlo único y aprovechar mejor el SEO
-  $h1text = "Tiendas - morés";
+  $h1text = "Quiénes somos - morés";
  ?>
 <?php include "inc/menu.php"; ?>
 

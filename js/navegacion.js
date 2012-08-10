@@ -9,15 +9,27 @@ var navLat = {
 		NavLat.$headers = $(".nav-header");
 		NavLat.list = ".menu-list";
 
+		NavLat.initialPosition();
 		NavLat.bindEvents();
 		},
 		bindEvents: function(){
 		NavLat.$headers.on("click", NavLat.headerClicked);
 	},
-	headerClicked : function(){
-	    clase = $(this).data("menu");
+	headerClicked : function(a){
+		if(typeof a == "object"){
+	    	clase = $(this).data("menu");
+	    }else{
+	    	clase = a;
+	    }
 	    $(NavLat.list +":not(."+ clase +")").slideUp("fast");
 	    $(NavLat.list + "."+clase).slideToggle("fast");
+	    localStorage.setItem("menuclicked", clase);
+	},
+	initialPosition : function(){
+		item = localStorage.getItem("menuclicked");
+		if(item != null){
+			NavLat.headerClicked(item);
+		}
 	}
 }
 navLat.init();
