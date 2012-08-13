@@ -92,7 +92,70 @@ var contacto = {
 
 contacto.init();
 
+
+
+
+//Control de plugins
+
+
 $('.contacto').ajaxForm({
 	target: 	'.mensaje-exito',
 	clearForm: 	true,
 }); 
+
+
+$(function() {
+    $("#uploader").pluploadQueue({
+        // General settings
+        runtimes : 'html5,gears,flash,silverlight,',
+        url : 'inc/subir.php',
+        max_file_size : '1024mb',
+
+
+        // Specify what files to browse for
+        filters : [
+            {title : "Image files", extensions : "jpg,gif,png,tiff"},
+            {title : "Zip files", extensions : "zip,rar"},
+            {title : "Adobe files", extensions : "psd,ai,pdf,eps"},
+            {title : "Other files", extensions : "dwg"}
+        ],
+ 
+        // Flash settings
+        flash_swf_url : 'js/plupload/plupload.flash.swf',
+ 
+        // Silverlight settings
+        silverlight_xap_url : 'js/plupload/plupload.silverlight.xap',
+        
+
+    });
+ 
+    // Client side form validation
+    $('#archivos').submit(function(e) {
+        var uploader = $('#uploader').pluploadQueue();
+ 
+        // Files in queue upload them first
+        if (uploader.files.length > 0) {
+            // When all files are uploaded submit form
+            uploader.bind('StateChanged', function() {
+                if (uploader.files.length === (uploader.total.uploaded + uploader.total.failed)) {
+                    $('#archivos')[0].submit();
+                }
+            });
+                 
+		uploader.start();
+		} else {
+		       alert('No has adjuntado ningún archivo.');
+		}
+ 
+        return false;
+    });
+	
+
+    $('#uploader').pluploadQueue().bind('FileUploaded', function(up, file, info) {
+    	size = file.size;
+		size = size/(1024*1024);
+		size = size.toFixed(2);
+		input = $("#archivossubidos").val();
+        $("#archivossubidos").val(input + "<li>" + file.name + " (" +size+"MB)</li>");
+   	});
+});

@@ -34,10 +34,16 @@
     <script src="js/fancybox/jquery.mousewheel-3.0.6.pack.js"></script>
 
     <!-- Add fancyBox -->
-    <link rel="stylesheet" href="js/fancybox/jquery.fancybox.css?v=2.0.6" type="text/css" media="screen" />
+    <link href="js/fancybox/jquery.fancybox.css?v=2.0.6" type="text/css" media="screen" />
     <script type="text/javascript" src="js/fancybox/jquery.fancybox.pack.js?v=2.0.6"></script>
 
     <script src="js/jquery.form.js"></script>
+
+    <link href="less/jquery.plupload.queue.css" rel="stylesheet">  
+
+    <script type="text/javascript" src="js/plupload/plupload.full.js"></script>
+    <script src="js/plupload/jquery.plupload.queue/jquery.plupload.queue.js"></script>
+    <script src="js/plupload/i18n/es.js"></script>
 
 
     <script src="js/navegacion.js"></script> 
